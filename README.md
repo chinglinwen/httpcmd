@@ -6,7 +6,7 @@ Execute any command through http
 ```
 Usage of httpcmd:
   -port string
-        Port number. (default "9000")
+        Port number. (default "9002")
   -v    Show version.
 
 Example:
