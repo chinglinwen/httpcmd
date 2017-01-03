@@ -28,7 +28,7 @@ func main() {
                 fmt.Printf(example)
         }
 
-        port := flag.String("port", "9000", "Port number.")
+        port := flag.String("port", "9002", "Port number.")
         version := flag.Bool("v", false, "Show version.")
 
         flag.Parse()
